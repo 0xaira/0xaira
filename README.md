@@ -7,12 +7,12 @@ Hello I am Aira , an open source enthusiast. I design and code beautifully simpl
 Skilled at reading and writing code using viable inputs and outputs after accurate assessment of pre- and post-conditions. Experienced at designing unit tests to measure the effectiveness of software programs, backend services, and user interfaces. Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term. Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function. Maximized applications’ efficiency, data quality, scope, operability, and flexibility.
 
 ![age](https://img.shields.io/badge/age-19-blue)
-![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-brightgreen)
+![focus](https://img.shields.io/badge/focus-Blockchain Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🌱 I’m currently learning Android Development
-- 👯 I’m looking to collaborate on Design projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/aira-jena-718437216) 
+- 🌱 I’m currently learning Solidity Development
+- 👯 I’m looking to collaborate on web3 projects 
+- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/aira-jena) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
@@ -50,7 +50,7 @@ Skilled at reading and writing code using viable inputs and outputs after accura
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/airajena23/airajena23/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/0xaira/0xaira/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <div align="center">
 ### Show some ❤️ by starring ⭐ some of the repositories!
@@ -58,9 +58,9 @@ Skilled at reading and writing code using viable inputs and outputs after accura
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/aira-jena-718437216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AiraJen23"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/aira_jena23/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/aira-jena/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/0xaira"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/0xaira/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
@@ -69,17 +69,3 @@ Skilled at reading and writing code using viable inputs and outputs after accura
 </div>
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
