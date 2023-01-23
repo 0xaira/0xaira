@@ -22,7 +22,7 @@ A 19 Y/O Tech Enthusiast🎯 from India. I'm passionate about Blockchain Develop
 - 👯 I’m looking to collaborate on Web 3 Projects
 - 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/aira-jena/) 
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- ⚡ Fun fact: Dependent on Tutorials! 
 <br />
 <br />
 
