@@ -36,7 +36,7 @@ A 19 Y/O Tech Enthusiast🎯 from India. I'm passionate about Blockchain Develop
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0xaira&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xaira&theme=jolly&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xaira&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
