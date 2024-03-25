@@ -81,13 +81,45 @@ A 20 Y/O Tech Enthusiast🎯 from India. I'm passionate about Software Developme
 
 <br/>  
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0xaira&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xaira&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xaira&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=0xaira&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xaira&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xaira&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=0xaira&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) -->
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=0xaira&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## My Featured Projects
 
+1. **Oishi**: Oishi, a React.js-based food ordering website, seamlessly connects users with their favorite dishes through the live Swiggy API.
+   [GitHub Repo](https://github.com/yourusername/project1) | [Hosted Site](https://yoursite.com/project1)
+
+2. **E-commerce App**: An e-commerce application built with React and Redux, featuring a user-friendly interface for browsing and purchasing products.
+   [GitHub Repo](https://github.com/yourusername/ecommerce-app) | [Hosted Site](https://yoursite.com/ecommerce-app)
+
+3. **Netflix Clone**: A Netflix clone developed using React, showcasing similar functionalities such as user authentication, movie browsing, and playback.
+   [GitHub Repo](https://github.com/yourusername/netflix-clone) | [Hosted Site](https://yoursite.com/netflix-clone)
+
+4. **YouTube Clone**: This YouTube clone is built with React and utilizes the YouTube Data API, allowing users to search and watch videos in a familiar interface.
+   [GitHub Repo](https://github.com/yourusername/youtube-clone) | [Hosted Site](https://yoursite.com/youtube-clone)
+
+5. **Crypto Tracker App**: A cryptocurrency tracking application built with React and leveraging real-time data from cryptocurrency APIs, providing users with insights into market trends.
+   [GitHub Repo](https://github.com/yourusername/crypto-tracker) | [Hosted Site](https://yoursite.com/crypto-tracker)
+
+6. **Personal Portfolio**: My personal portfolio website, showcasing my projects, skills, and experiences. Built with React and styled with modern design principles.
+   [GitHub Repo](https://github.com/yourusername/portfolio) | [Hosted Site](https://yoursite.com/portfolio)
+
+## My Featured Blogs
+
+- [Mastering React Hooks: A Comprehensive Guide](https://yourblog.com/post1)
+- [Building Scalable React Applications with Redux](https://yourblog.com/post2)
+- [Optimizing Performance in React: Tips and Best Practices](https://yourblog.com/post3)
+- [Understanding React Context API: A Practical Overview](https://yourblog.com/post4)
+- [Testing React Components: Strategies and Tools](https://yourblog.com/post5)
+- [Next.js: Building Server-Side Rendered React Apps](https://yourblog.com/post6)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xaira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -103,9 +135,7 @@ A 20 Y/O Tech Enthusiast🎯 from India. I'm passionate about Software Developme
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aira-jena/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/0xaira.eth/)
-[<img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/0xAira)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/0xaira) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xaira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0xaira) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xaira) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/0xaira) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/0xaira) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xaira) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0xaira) 
 
 
 </div>
