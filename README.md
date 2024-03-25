@@ -1,25 +1,25 @@
 <div align="center">
 
-![](images/header_.jpeg)
+![](images/banner.jpg)
 </div>
 
 <h1 align="center"> नमस्ते (Namaste), I'm Aira Jena <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> !</h1>
 
-<h3 align="center">I'm a Blockchain Enthusiast from India ❤</h3>
+<h3 align="center">I'm a Frontend Developer from India ❤</h3>
   
-A 19 Y/O Tech Enthusiast🎯 from India. I'm passionate about Blockchain Development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web 3 Development ⚒️ and working on my Data Structures and Algorithms skills 🚀.
+A 20 Y/O Tech Enthusiast🎯 from India. I'm passionate about Software Development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love problem solving and solve algorithmic problems 👨🏻‍💻. I'm currently into Full Stack Development ⚒️ and working on my Data Structures and Algorithms skills 🚀.
 
 <br >
 
 
 ![age](https://img.shields.io/badge/age-20-cyan)
-![focus](https://img.shields.io/badge/focus-Blockchain-cyan)
-![living](https://img.shields.io/badge/living-Bhubaneshwar-cyan)
+![focus](https://img.shields.io/badge/focus-FullStack(MERN)-cyan)
+![living](https://img.shields.io/badge/living-India-cyan)
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github Image" src="./images/path.svg" />
 
-- 🌱 I’m currently learning Solidity and ReactJs
-- 👯 I’m looking to collaborate on Web 3 Projects
+- 🌱 I’m currently learning Backend and NextJs
+- 👯 I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/aira-jena/) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Dependent on Tutorials! 
@@ -30,8 +30,7 @@ A 19 Y/O Tech Enthusiast🎯 from India. I'm passionate about Blockchain Develop
 
 </div>
 
-<br >
-
+<br>
 <br>
 
 # 📊 GitHub Stats:
@@ -39,15 +38,7 @@ A 19 Y/O Tech Enthusiast🎯 from India. I'm passionate about Blockchain Develop
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xaira&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xaira&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
 
-<h1 align="center">This is my little contribution in Hacktoberfest 2022</h1>
-
-<a href="https://holopin.io/@airajena"><img src="https://holopin.me/airajena"></a>
-
----
-
-<br>
 
 
 ## 🏆 GitHub Trophies
